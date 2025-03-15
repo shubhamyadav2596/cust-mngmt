@@ -32,7 +32,7 @@ The application uses Redux Toolkit for state management:
 ### UI Components
 - Sidebar.jsx : Navigation component that:
   - Provides links to different sections of the app
-  - Can be collapsed/expanded
+  - Can be collapsed/expanded for smaller screens
   - Contains links to Customers and Statistics pages
 
 
