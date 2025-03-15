@@ -52,8 +52,8 @@ To run this application locally:
 
 ## Installation
 ### Clone the repository
-- git clone <repository-url>
-- cd customer mngmt app
+- git clone (repo link)
+- cd customer_management_app
 
 ### Install frontend dependencies
 - npm install
