@@ -60,7 +60,7 @@ To run this application locally:
 
 ### Setting up JSON Server
 - Install JSON Server globally (if not already installed)
-- run json-server --watch db.json --port 3000
+- run "npm run server"  or  "json-server --watch db.json --port 3000" 
 
 ### Start the development server
 - npm run dev

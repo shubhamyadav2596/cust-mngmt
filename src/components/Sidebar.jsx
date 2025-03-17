@@ -24,7 +24,7 @@ function Sidebar() {
         isOpen ? 'translate-x-0' : '-translate-x-full md:translate-x-0'
       }`}>
         <div className="p-5">
-          <h2 className="text-2xl mt-10 md:mt-0 font-bold mb-5">Dashboard</h2>
+          <img src='/logo.png' alt='logo' className="mt-10 w-32 mx-auto md:mt-0 mb-5" />
           <nav>
             <NavLink
               to="/"

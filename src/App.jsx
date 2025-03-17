@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { store } from './store/store';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/Sidebar.jsx';
 import CustomerManagement from './pages/CustomerManagement';
 import CustomerStats from './pages/CustomerStats';
 import './App.css';
